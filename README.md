@@ -10,8 +10,20 @@
 
 ![Aws](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/94b9e247-3e85-43cb-92bc-2bb67b59b0a4)
 
+<br>
 
+<h2>Jenkins Dashboard</h2>
 
+![Screenshot 2023-06-03 053630](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/8742d77d-0213-45d9-b7bf-ac1fb57c48b7)
+
+<br>
+<br>
+
+<h2>Job Created</h2>
+
+![Screenshot 2023-06-04 050522](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/1e7ab778-0749-4e30-a414-45f987af0906)
+
+<br>
 <br>
 <h2>Build Steps</h2>
 
@@ -25,12 +37,4 @@
 
 <br>
 
-<h2>Jenkins Dashboard</h2>
 
-![Screenshot 2023-06-03 053630](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/8742d77d-0213-45d9-b7bf-ac1fb57c48b7)
-
-<br>
-<br>
-<h2>Job Created</h2>
-
-![Screenshot 2023-06-04 050522](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/1e7ab778-0749-4e30-a414-45f987af0906)
