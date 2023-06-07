@@ -3,10 +3,11 @@
 
 
 <h1>VM's Created</h1>
-![Aws](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/4e5348ff-4dbc-4717-8bfb-1f687cbb17ef)
+
+![Aws](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/94b9e247-3e85-43cb-92bc-2bb67b59b0a4)
 
 
-Build Steps
+<h2>Build Steps</h2>
 ![Screenshot 2023-06-07 080639](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/0aaa2fa0-fb54-4e2c-9211-84b879442dfe)
 
 SonarQube Interface
