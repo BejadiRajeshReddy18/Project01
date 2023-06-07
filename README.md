@@ -17,6 +17,15 @@
 ![Screenshot 2023-06-03 053630](https://github.com/BejadiRajeshReddy18/Project01/assets/64033035/8742d77d-0213-45d9-b7bf-ac1fb57c48b7)
 
 <br>
+<h3>Plugins to be installed </h3>
+  <ol>
+  <li>Docker Pipeline</li>
+  <li>Docker Build and Publish</li>
+  <li>Docker Plugin</li>
+  <li>Docker Compose</li>
+  <li>SonarQube Plugin</li>
+  <li>Eclipse Temurin installer</li>
+  </ol>
 <br>
 
 <h2>Job Created</h2>
